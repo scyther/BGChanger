@@ -20,7 +20,7 @@
 
 ## Supported Platforms
 
-- Android ([Download APK](BgChanger-app-arm64-v8a-release.apk))
+- Android ([Download APK](https://github.com/scyther/BGChanger/raw/main/BgChanger-app-arm64-v8a-release.apk))
 
 ## How to run
 
